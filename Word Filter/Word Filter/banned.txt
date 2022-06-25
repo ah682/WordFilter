@@ -1,0 +1,16 @@
+cat
+Cat
+dog
+Dog
+aim
+Aim
+add
+Add
+ear
+Ear
+back
+Back
+punk
+Punk
+able
+Able

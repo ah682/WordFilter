@@ -1,0 +1,3 @@
+﻿  Word Filter.cpp
+C:\Users\Adam\Downloads\Adam Hall Computer Science Assessment Two\Word Filter\Word Filter\Word Filter.cpp(188,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Word Filter.vcxproj -> C:\Users\Adam\Downloads\Adam Hall Computer Science Assessment Two\Word Filter\x64\Debug\Word Filter.exe
