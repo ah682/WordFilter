@@ -1,2 +1,2 @@
 # word-filter
-Word Filter Student Project
+C++ Word Filter First Year Student Project
